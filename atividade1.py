@@ -5,4 +5,6 @@ primeiro = numeros[0]
 terceiro = numeros[2]
 
 ultimo = numeros[-1]
-print(ultimo)
+
+for i in numeros:
+    print(i)
