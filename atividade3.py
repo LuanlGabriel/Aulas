@@ -1,4 +1,4 @@
 cores = ['azul', 'vermelho', 'verde']
 print(cores)
-cores[0] = 'amarelo'
+cores[1] = 'amarelo'
 print(cores)

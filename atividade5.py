@@ -1,4 +1,4 @@
 animais = ['gato', 'cachorro']
 
-animais.insert(0, 'capivara')
+animais.insert(1, 'capivara')
 print(animais)
